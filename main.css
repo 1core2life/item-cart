@@ -1,0 +1,15 @@
+body {
+    width: 300px;
+    height: 200px;
+    overflow: hidden;
+    padding: 10px;
+}
+
+.centered {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    background: #f00;
+    transform: translate(-50%, -50%)
+
+}
