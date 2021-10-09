@@ -1,6 +1,11 @@
-# item-cart
+# ItemCart
 
-This is chrome extension
+This is chrome extension and vertical bookmark service for shopping
 
-Item-cart is all in one shopping list like cart
+ItemCart is All-In-One shopping list like carts
+
+## Feature
+
+1. Folder tree you can edit
+2. Show Link thumbnail
 
