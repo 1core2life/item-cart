@@ -4,15 +4,17 @@ window.onload = function () {
 
     function open() {
         var isOpened = (document.getElementById('hiddenContent01').style.display == 'none');
-        console.log(isOpened);
-        if (isOpened ) {
-            document.getElementById("folder1").innerText = "¡åÆîÄ¡±â"
+
+        if (isOpened) {
+            document.getElementById("folder1").innerText = "Folder#1"
             document.getElementById('hiddenContent01').style.display = 'block';
         }
         else {
-            document.getElementById("folder1").innerText = "¢¹ÆîÄ¡±â"
+            document.getElementById("folder1").innerText = "Folder#1"
             document.getElementById('hiddenContent01').style.display = 'none';
 
         }
     }
+
+
 }

@@ -9,5 +9,9 @@
   "icons": { "16": "shopping-cart.png",
            "48": "shopping-cart.png",
           "128": "shopping-cart.png" 
+  },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
   }
 }
