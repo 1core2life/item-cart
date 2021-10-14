@@ -17,4 +17,9 @@ window.onload = function () {
     }
 
 
+    document.getElementById("add").addEventListener("click", add);
+
+    function add() {
+        alert("test");
+    }
 }
